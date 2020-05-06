@@ -33,6 +33,8 @@
           <li><a href="#">Channeling</a></li>
           <li><a href="#">Payment</a></li>
           <li><a href="#">Stock</a></li>
+          <li><a href="logn.html">LogIn</a></li>
+		<li><a href="sgnup.html">Registration</a></li>
           </ul>
           </li>
         </ul>
@@ -109,12 +111,13 @@
     <div class="one_quarter">
       <h6 class="heading">QUICK ACCESS</h6>
       <ul class="nospace linklist">
-		   <li class="active"><a href="home.html">Home</a></li>
+		<li class="active"><a href="home.html">Home</a></li>
         <li><a href="#">Doctor</a></li>
 		 <li><a href="#">Patient</a></li>
 		 <li><a href="nurse.jsp">Nurse</a></li>
         <li><a href="#">Channeling</a></li>
 		<li><a href="#">Payment</a></li>
+		
       </ul>
     </div>
   </footer>
