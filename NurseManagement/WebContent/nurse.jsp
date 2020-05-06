@@ -33,8 +33,6 @@
           <li><a href="#">Channeling</a></li>
           <li><a href="#">Payment</a></li>
           <li><a href="#">Stock</a></li>
-          <li><a href="logn.html">LogIn</a></li>
-		<li><a href="sgnup.html">Registration</a></li>
           </ul>
           </li>
         </ul>
